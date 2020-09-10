@@ -13,5 +13,5 @@
     font-family: sans-serif;
 }
 body {
-    background-image: url('numbers.jpg')
+    background-image: url('./assets/numbers.jpg')
 }
